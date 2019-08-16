@@ -40,4 +40,4 @@ public class AdditivePrime {
 	}
 }
 
-//The time complexity is O(n squared)
+//The time complexity is O(n*sqrt(n))
